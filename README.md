@@ -1,0 +1,2 @@
+# nextApps
+Started learning nextjs
